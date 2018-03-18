@@ -45,4 +45,4 @@ From terminal:
 $ git subtree push --prefix site/ origin gh-pages
 ```
 
-Resulting docs available on [https://oscar6echo.github.io/mkdocs-test/]()
+Resulting docs available on [https://oscar6echo.github.io/mkdocs-test/](https://oscar6echo.github.io/mkdocs-test/)
